@@ -1,0 +1,6 @@
+﻿  Work5.1.cpp
+C:\Users\Oleg-Bobo\source\repos\Work5.1\Work5.1\Work5.1.cpp(17,22): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Oleg-Bobo\source\repos\Work5.1\Work5.1\Work5.1.cpp(17,19): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Oleg-Bobo\source\repos\Work5.1\Work5.1\Work5.1.cpp(17,42): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Oleg-Bobo\source\repos\Work5.1\Work5.1\Work5.1.cpp(17,65): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  Work5.1.vcxproj -> C:\Users\Oleg-Bobo\source\repos\Work5.1\Debug\Work5.1.exe
